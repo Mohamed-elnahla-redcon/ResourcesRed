@@ -1,6 +1,6 @@
 # Resources Usage License
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this content and associated files (the "Content"), to deal with the Content under the terms of this license. The rights granted herein are subject to the following restrictions:
+Permission is hereby granted, with agreed charge between the authors and the people requesting the usage of this content, to obtain a copy of this content and associated files (the "Content"), to deal with the Content under the terms of this license. The rights granted herein are subject to the following restrictions:
 
 1. You may not use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Content without the explicit written and signed permission from the author(s) and Redcon.
 
